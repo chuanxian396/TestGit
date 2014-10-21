@@ -22,5 +22,6 @@ public class AbilityTags
         AutoAbility,
         SpecialAbility
     }
+	对方的发送到放大师傅的说法
 }
 
