@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using UnityEngine;
-12123355522
+
 [Serializable]
 public class AbilityTags
 {
